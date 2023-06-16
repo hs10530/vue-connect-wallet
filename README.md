@@ -1,9 +1,8 @@
-![](./images/VueConnectWallet.png)
-
 <h1 align="center">vue-connect-wallet</h1>
 
 <p align="center">
-    
+    <img src="https://img.shields.io/static/v1?label=Made%20with&message=VueJS&color=limegreen&style=for-the-badge&logo=vue.js" />
+    <img src="https://img.shields.io/badge/Made%20for-Dapps-orange?style=for-the-badge&logo=ethereum" />
 </p>
 
 Bootstrap your decentralized applications by delegating the tedious and repetitive task of wallet connection and button design to this plugin.
@@ -229,18 +228,3 @@ To develop in this repo, just clone it and run `yarn` to install all the depende
 
 **Note on Identicons (Jazzicon)**  
 This package comes with the Jazzicon from the library [vue3-jazzicon](https://github.com/samuveth/vue3-jazzicon). Installing it as a dependency in the plugin raised import errors due to which I bundled the component in this plugin itself.
-
-# Stargazers
-
-[![Stargazers repo roster for @neelansh15/vue-connect-wallet](https://reporoster.com/stars/neelansh15/vue-connect-wallet)](https://github.com/neelansh15/vue-connect-wallet/stargazers)
-
-# Author
-
-Hi! I am Neelansh Mathur. I am a freelancer specializing in Frontend development for Blockchain applications, and currently studying Computer Engineering. You can find out more about me at my social links.
-
-I made this plugin because I was having to repeatedly use the same code and redesign buttons for every dApp I develop for. This has made my life easier and I hope it does the same for you 💚.
-
-**Twitter**: https://twitter.com/mneelansh15  
-**LinkedIn**: https://www.linkedin.com/in/neelansh-mathur/  
-**Dev.to**: https://dev.to/neelansh15  
-**Github**: https://github.com/neelansh15
