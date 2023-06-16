@@ -3,8 +3,7 @@
 <h1 align="center">vue-connect-wallet</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=Made%20with&message=VueJS&color=limegreen&style=for-the-badge&logo=vue.js" />
-    <img src="https://img.shields.io/badge/Made%20for-Dapps-orange?style=for-the-badge&logo=ethereum" />
+    
 </p>
 
 Bootstrap your decentralized applications by delegating the tedious and repetitive task of wallet connection and button design to this plugin.
